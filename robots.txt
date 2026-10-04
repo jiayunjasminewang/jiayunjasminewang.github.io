@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiayunjasminewang.github.io/al-folio/sitemap.xml
+Sitemap: https://jiayunjasminewang.github.io/sitemap.xml
